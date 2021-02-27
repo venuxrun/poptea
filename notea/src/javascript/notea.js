@@ -1,0 +1,1 @@
+console.log("在JS文件夹里喝茶!")
